@@ -1,4 +1,4 @@
-# Homework 1 - Classroom Interface
+# Classroom Interface
 In this homework a classroom interface is implemented as a console application.
 
 Example execution:
